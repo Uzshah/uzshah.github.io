@@ -273,7 +273,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
       layout: talk
       author_profile: true
